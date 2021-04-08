@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am full stack web developer. <br/>
+Main specialization - Ecommerce projects. <br/>
+Developed CMS [vvShop](https://xfor.top/en/vvshop) and other e-commerce projects turnkey.<br/>
+Opened for interesting offers.
+
+## Contacts
+- 😄 Telegram: [igoves](https://t.me/igoves)
+- 📫 E-mail: [dev@xfor.top](mailto:dev@xfor.top)
+- :earth_asia: WWW: https://xfor.top
+- 👯 LinkedIn: https://www.linkedin.com/in/igor-veselov/
+
 <!--
 **utz0r2/utz0r2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
