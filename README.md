@@ -8,7 +8,7 @@ Opened for interesting offers.
 ## Contacts
 - 😄 Telegram: [igoves](https://t.me/igoves)
 - 📫 E-mail: [dev@xfor.top](mailto:dev@xfor.top)
-- :earth_asia: WWW: https://xfor.top
+- :earth_asia: www: https://xfor.top
 - 👯 LinkedIn: https://www.linkedin.com/in/igor-veselov/
 
 <!--
