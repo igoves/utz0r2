@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=utz0r2&&show_icons=true">
+
 I am full stack web developer. <br/>
 Main specialization - Ecommerce projects. <br/>
 Developed CMS [vvShop](https://xfor.top/en/vvshop) and other e-commerce projects turnkey.<br/>
