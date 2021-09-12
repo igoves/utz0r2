@@ -4,7 +4,7 @@
 
 I am full stack web developer. <br/>
 Main specialization - Ecommerce projects. <br/>
-Developed CMS [vvShop](https://xfor.top/en/vvshop) and other e-commerce projects turnkey.<br/>
+Developed CMS [vvShop](https://xfor.top/vvshop) and other e-commerce projects turnkey.<br/>
 Opened for interesting offers.
 
 ## Contacts
